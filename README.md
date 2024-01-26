@@ -1,1 +1,1 @@
-This data is from kaggle and for our group project, we decide to work with a customer dataset from a supermarket and were able to find some insights to help the super market. We used google colab and used the following libaries: matplotlib, seaborn, pandas. 
+This data is from kaggle and for our group project, we decide to work with a customer dataset from a supermarket and were able to find some insights using Python. We used google colab and used the following libaries: matplotlib, seaborn, pandas. 
